@@ -10,9 +10,9 @@ Personal Information -> Communication Preferences -> **Apps, music, TV and more*
 
 Sign-In & Security -> **Two-Factor Authentication** -> ✅ *(Use security keys if possible)*
 
-Media & Purchases -> **Free Downloads** -> Never require 
+Media & Purchases -> **Free Downloads** -> `Never require`
 
-Media & Purchases -> **Purchases and In-App Purchases** -> Always require
+Media & Purchases -> **Purchases and In-App Purchases** -> `Always require`
 
 # Wi-Fi
 
@@ -34,7 +34,7 @@ Firewall -> Options -> **Enable stealth mode** -> ✅
 
 # Notifications
 
-**Show previews** -> When Unlocked
+**Show previews** -> `When Unlocked`
 
 **Allow notifications when the display is sleeping** -> ❌
 
@@ -68,7 +68,7 @@ Store, Web, Siri & Game Center Content:
 
 * **Allow Private Messaging** -> ❌ 
 
-* **Allow Multiplayer Games With** -> No one *(if you don't play any games online through Game Center)*
+* **Allow Multiplayer Games With** -> `No one` *(if you don't play any games online through Game Center)*
 
 * **Allow Nearby Multiplayer** -> ❌ 
 
@@ -106,7 +106,7 @@ The following appear to only impact iOS, but I would still recommend setting the
 
 # General
 
-About -> **Name** -> Keep this generic, I recommend setting it to "Device"
+About -> **Name** -> Keep this generic, I recommend setting it to `Device`
 
 Software Update -> Automatic Updates:
 
@@ -124,11 +124,11 @@ AirDrop & Handoff:
 
 **Allow Handoff between this Mac and your iCloud devices** -> ❌
 
-**AirDrop** -> No One
+**AirDrop** -> `No One`
 
 **AirPlay Receiver** -> ❌
 
-**Allow AirPlay for** -> Current User
+**Allow AirPlay for** -> `Current User`
 
 **Login Items** -> Go through and remove/disable anything from here you don't need
 
@@ -186,15 +186,15 @@ Siri -> **Type to Siri** -> ✅
 
 # Control Center
 
-**Wi-Fi** -> Show in Menu Bar
+**Wi-Fi** -> `Show in Menu Bar`
 
-**Bluetooth** -> Show in Menu Bar
+**Bluetooth** -> `Show in Menu Bar`
 
-**AirDrop** -> Don't Show in Menu Bar
+**AirDrop** -> `Don't Show in Menu Bar`
 
-**Focus** -> Show when active
+**Focus** -> `Show when active`
 
-**Screen Mirroring** -> Show when active
+**Screen Mirroring** -> `Show when active`
 
 Accessibility shortcuts -> **Show in Menu Bar** -> ❌ *(Unless you need/use this)*
 
@@ -210,11 +210,11 @@ Fast User Switching -> **Show in Menu Bar** -> Your choice, this is a great sett
 
 Fast User Switching -> **Show in Control Center** -> ✅ *(only if you use multiple users)*
 
-Menu Bar Only -> Clock Options... -> Date -> **Show date** -> When space allows
+Menu Bar Only -> Clock Options... -> Date -> **Show date** -> `When space allows`
 
 Menu Bar Only -> Clock Options... -> Date -> **Show the day of the week** -> ✅
 
-Menu Bar Only -> Clock Options... -> Time -> **Style** -> Digital
+Menu Bar Only -> Clock Options... -> Time -> **Style** -> `Digital`
 
 Menu Bar Only -> Clock Options... -> Time -> **Show AM/PM** -> ✅
 
@@ -222,7 +222,7 @@ Menu Bar Only -> Clock Options... -> Time -> **Display the time with seconds** -
 
 Menu Bar Only -> Clock Options... -> Time -> **Announce the time** -> ❌ *(Should be default, lol)*
 
-**Siri** -> Don't Show in Menu Bar
+**Siri** -> `Don't Show in Menu Bar`
 
 # Siri & Spotlight
 
@@ -272,13 +272,13 @@ Analytics & Improvements -> **Share with app developers** -> ❌
 
 Apple Advertising -> **Personalized Ads** -> ❌
 
-**Allow applications downloaded from** -> App Store and identified developers
+**Allow applications downloaded from** -> `App Store and identified developers`
 
-**Allow accesories to connect** -> Ask Every Time
+**Allow accesories to connect** -> `Ask Every Time`
 
-**FileVault** -> On ✅ (Don't save the recovery key to your iCloud account...)
+**FileVault** -> `On` ✅ (Don't save the recovery key to your iCloud account...)
 
-**Lockdown Mode** -> On ✅
+**Lockdown Mode** -> `On` ✅
 
 Extensions -> **Added extensions** -> Remove any extensions you don't need/use
 
@@ -305,7 +305,7 @@ Advanced... -> **Require an administrator password to access system-wide setting
 
 Advanced... -> **Log out automatically after inactivity** -> ✅
 
-Advanced... -> **Log out after...** -> Your choice, the lower the better, I leave mine at 60 minutes due to other options we set (Should investigate this further)
+Advanced... -> **Log out after...** -> Your choice, the lower the better, I leave mine at `60 minutes` due to other options we set (Should investigate this further)
 
 # Desktop & Dock
 
@@ -319,7 +319,7 @@ Show Widgets -> **In Stage Manager** -> ❌
 
 **Default web browser** -> Set to your browser of choice, I recommend [Firefox](https://www.mozilla.org/firefox/)
 
-**Prefer tabs when opening documents** -> Always
+**Prefer tabs when opening documents** -> `Always`
 
 **Ask to keep changes when closing documents** -> ✅
 
