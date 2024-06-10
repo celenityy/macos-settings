@@ -156,6 +156,10 @@ Sharing:
 
 **Remote Application Scripting** -> ❌
 
+# Appearance
+
+**Appearance** -> `Dark`
+
 # Accessibility
 
 The 3 options below are optional but recommended for lower-end or older devices to improve performance and battery:
