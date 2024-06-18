@@ -140,6 +140,14 @@ AirDrop & Handoff:
 
 Language & Region -> Translation Languages... -> **On-Device Mode** -> ✅
 
+Date & Time -> **Set date and time automatically** -> ✅ *(Very important for security)*
+
+Date & Time -> Source -> **Set...** -> I would recommend setting this to the time server ran by [GrapheneOS](https://grapheneos.org/): `time.grapheneos.org`
+
+Date & Time -> **24-hour time** -> ❌
+
+Date & Time -> **Show 24-hour time on Lock Screen** -> ❌
+
 Sharing:
 
 * **File Sharing** -> ❌
