@@ -112,51 +112,55 @@ About -> **Name** -> Keep this generic, I recommend setting it to `Device`
 
 Software Update -> Automatic Updates:
 
-**Check for updates** -> ✅
+* **Check for updates** -> ✅
 
-**Download new updates when available** -> ✅
+* **Download new updates when available** -> ✅
 
-**Install macOS updates** -> ✅
+* **Install macOS updates** -> ✅
 
-**Install application updates from the App Store** -> ✅
+* **Install application updates from the App Store** -> ✅
 
-**Install Security Responses and system files** -> ✅
+* **Install Security Responses and system files** -> ✅
+
+<br>
 
 AirDrop & Handoff:
 
-**Allow Handoff between this Mac and your iCloud devices** -> ❌
+* **Allow Handoff between this Mac and your iCloud devices** -> ❌
 
-**AirDrop** -> `No One`
+* **AirDrop** -> `No One`
 
-**AirPlay Receiver** -> ❌
+* **AirPlay Receiver** -> ❌
 
-**Allow AirPlay for** -> `Current User`
+* **Allow AirPlay for** -> `Current User`
 
-**Login Items** -> Go through and remove/disable anything from here you don't need
+* **Login Items** -> Go through and remove/disable anything from here you don't need
+
+<br>
 
 Language & Region -> Translation Languages... -> **On-Device Mode** -> ✅
 
 Sharing:
 
-**File Sharing** -> ❌
+* **File Sharing** -> ❌
 
-**Media Sharing** -> ❌
+* **Media Sharing** -> ❌
 
-**Screen Sharing** -> ❌
+* **Screen Sharing** -> ❌
 
-**Content Caching** -> ❌
+* **Content Caching** -> ❌
 
-**Bluetooth Sharing** -> ❌
+* **Bluetooth Sharing** -> ❌
 
-**Printer Sharing** -> ❌
+* **Printer Sharing** -> ❌
 
-**Internet Sharing** -> ❌
+* **Internet Sharing** -> ❌
 
-**Remote Management** -> ❌
+* **Remote Management** -> ❌
 
-**Remote Login** -> ❌
+* **Remote Login** -> ❌
 
-**Remote Application Scripting** -> ❌
+* **Remote Application Scripting** -> ❌
 
 # Appearance
 
@@ -252,19 +256,21 @@ Disable location access for any apps that don't need it here
 
 System Services -> Details...:
 
-**Suggestions & Search** -> ❌
+* **Suggestions & Search** -> ❌
 
-**System customization** -> ❌
+* **System customization** -> ❌
 
-**Significant locations** -> ❌
+* **Significant locations** -> ❌
 
-**Find My Mac** -> ❌
+* **Find My Mac** -> ❌
 
-**HomeKit** -> ❌
+* **HomeKit** -> ❌
 
-**Mac Analytics** -> ❌
+* **Mac Analytics** -> ❌
 
-**Show location icon in Control Center when System Services request your location** -> ✅
+* **Show location icon in Control Center when System Services request your location** -> ✅
+
+<br>
 
 Go through all permissions under privacy and remove permissions for any apps that don't need them
 
@@ -290,20 +296,21 @@ Extensions -> **Added extensions** -> Remove any extensions you don't need/use
 
 Extensions -> Sharing:
 
-**Contact Suggestions** -> ❌
+* **Contact Suggestions** -> ❌
 
-**AirDrop** -> ❌
+* **AirDrop** -> ❌
 
-**Mail** -> ❌ *(if you don't use/need it)*
+* **Mail** -> ❌ *(if you don't use/need it)*
 
-**Messages** -> ❌ *(if you don't use/need it)*
+* **Messages** -> ❌ *(if you don't use/need it)*
 
-**Save to Books** -> ❌
+* **Save to Books** -> ❌
 
-**Freeform** -> ❌
+* **Freeform** -> ❌
 
-**Instruments** -> ❌
+* **Instruments** -> ❌
 
+<br>
 
 **Profiles** -> Remove any profiles you don't need/use
 
@@ -323,7 +330,7 @@ Show Widgets -> **In Stage Manager** -> ❌
 
 **Use iPhone widgets** -> ❌
 
-**Default web browser** -> Set to your browser of choice, I recommend [Firefox](https://www.mozilla.org/firefox/)
+**Default web browser** -> Set to your browser of choice, I recommend [Firefox](https://www.mozilla.org/firefox/).
 
 **Prefer tabs when opening documents** -> `Always`
 
@@ -353,7 +360,7 @@ Advanced...:
 
 Night Shift:
 
-**Schedule** -> Custom: I usually set to `From 9:00PM to 6:00AM`
+Schedule -> **Custom:** -> I usually set to `From 9:00PM to 6:00AM`
 
 **Color Temperature** -> Set to the middle *(Should be default)*
 
@@ -367,13 +374,13 @@ Energy Mode -> **On power adapter** -> `Automatic` *(Should be default)* - It mi
 
 Options...:
 
-**Slightly dim the display on battery** -> ✅
+* **Slightly dim the display on battery** -> ✅
 
-**Prevent automatic sleeping on power adapter when the display is off** -> ❌
+* **Prevent automatic sleeping on power adapter when the display is off** -> ❌
 
-**Wake for network access** -> `Only on Power Adapter`
+* **Wake for network access** -> `Only on Power Adapter`
 
-**Optimize video streaming while on battery** -> ❌ *(Should be default)* - You can enable if you need to conserve battery life
+* **Optimize video streaming while on battery** -> ❌ *(Should be default)* - You can enable if you need to conserve battery life
 
 # Lock Screen
 
@@ -389,11 +396,11 @@ When switching users -> **Show the Sleep, Restart, and Shut Down buttons** -> �
 
 Accessibility Options...:
 
-**VoiceOver** -> ❌ *(if you don't use/need it)*
+* **VoiceOver** -> ❌ *(if you don't use/need it)*
 
-**Sticky Keys** -> ❌ *(Important for gaming)*
+* **Sticky Keys** -> ❌ *(Important for gaming)*
 
-**Slow Keys** -> ❌ *(Important for gaming)*
+* **Slow Keys** -> ❌ *(Important for gaming)*
 
 # Touch ID & Password
 
