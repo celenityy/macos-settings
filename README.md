@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate macOS Configuration :)
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/macos-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/macos-settings).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/macos-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/macos-settings).
 
 # Apple ID
 
