@@ -338,7 +338,7 @@ Show Widgets -> **In Stage Manager** -> ❌
 
 **Use iPhone widgets** -> ❌
 
-**Default web browser** -> Set to your browser of choice, I recommend [Firefox](https://www.mozilla.org/firefox/).
+**Default web browser** -> Set to your browser of choice, I generally recommend [Firefox](https://www.mozilla.org/firefox/) with my [Phoenix](https://phoenix.celenity.dev).
 
 **Prefer tabs when opening documents** -> `Always`
 
